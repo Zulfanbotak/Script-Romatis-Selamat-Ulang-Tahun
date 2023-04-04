@@ -79,7 +79,7 @@ const MyScript = () => {
             </div>
             <div className="footer">
               <h1>
-                BY &copy; <strong>Pramudya Diva Alamsyah</strong>
+                BY &copy; <strong>Remaja Jompo</strong>
                 {date}
               </h1>
             </div>
@@ -105,7 +105,7 @@ const MyScript = () => {
                   ~ Confirmation ID . . . . . . . . . . . . . . .
                   <br />
                   <Typist.Delay ms={2000} />~ ID IS "
-                  <span className="nameId">RIA NURMALASARIS</span>" CONFIRMATION
+                  <span className="nameId">Jiannney Jiatahla Vernanda Putri</span>" CONFIRMATION
                   . . . . . . . . . . . . . . .
                   <br />
                   ~ ID has been verified
@@ -132,7 +132,7 @@ const MyScript = () => {
               >
                 <div>
                   <h1 className="judul">
-                    Selamat Ulang Tahun Sayang
+                    Selamat Ulang Tahun Anak Nior
                     <br />
                     ===========
                   </h1>
@@ -141,15 +141,16 @@ const MyScript = () => {
                   Entah apa yang harus aku tuangkan ke dalam halaman web
                   sederhana ini, <Typist.Delay ms={1000} />
                   <br />
-                  Sekalipun ada goresan tinta dan syair yang indah, namun
-                  indahnya tidak bisa mengalahkan indahnya rasaku ini kepadamu.
+                  Hentak kaki yang tak berhenti melangkah Menjemput 
+                  kapal yang tak henti berlabuh.
                   <Typist.Delay ms={1000} />
                   <br />
                   <br />
-                  Ada banyak hal yang mungkin tak kamu ketahui tentang ku.
-                  <br />
+                  Cerminan hidup terlihat dipermukaan diri.
+                  Memantulkan cerminan cahaya yang menerangi jiwa
+			<br />
                   <Typist.Delay ms={1000} />
-                  Aku hanya ingin mengucapkan Selamat Ulang Tahun sayang.
+                  Aku hanya ingin mengucapkan Selamat Ulang Tahun Anak Nior Ku.
                   <br />
                   <br />
                   <Typist.Delay ms={1000} />
@@ -164,17 +165,17 @@ const MyScript = () => {
                   <br />
                   <br />
                   <Typist.Delay ms={2000} />
-                  Terimakasih banyak atas waktu yang sudah kamu berikan kepada
-                  ku, meskipun hanya sebentar... <Typist.Delay ms={1000} />
-                  tetapi kamu telah memberikan warna di setiap hari – hariku.
+                  Terimakasih banyak atas waktu yang telah kau luangkan untuk ku
+                  ,karena waktu begitu cepat berlalu... <Typist.Delay ms={1000} />
+                  waktu terus berlalu, dipertemukan dimalam rabu.
                   <br />
                   <br />
                   <Typist.Delay ms={2000} />
-                  Terimakasih karena Sudah Melihat Kado Ulang Tahun yang
-                  sederhana ini. 😄😄😄
+                  Terimakasih karena atas perhatiannya Mohon maaf lahir dan batin
+                  Selamat menunaikan ibadah puasa. 😄😄😄
                   <br />
                   <br />
-                  <span className="ttd">~~~ Untuk Ria Nurmalasari ~~~</span>
+                  <span className="ttd">~~~ Untuk Jiannney ~~~</span>
                 </div>
               </Typist>
             )}
